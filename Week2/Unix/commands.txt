@@ -1,0 +1,8 @@
+ls
+mkdir
+cd
+* (wildcard)
+
+Standard Input - stdin
+Standard Output - stdout
+Standard error - stderr
